@@ -10,7 +10,8 @@
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "react-leaflet": "3.0.0",
-    "react-leaflet-kml": "2.0.2"
+    "react-leaflet-kml": "2.0.2",
+    "react-scripts": "^4.0.3"
   },
   "devDependencies": {
     "@types/react": "16.8.8",
